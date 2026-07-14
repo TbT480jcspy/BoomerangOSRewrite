@@ -1,13 +1,13 @@
 <Solution>
-  <Project Path="../BoomerangOS.Assets/BoomerangOS.Assets.csproj" Id="a49333b3-46cf-47ed-ab7c-b68dd8d113bb" />
-  <Project Path="../BoomerangOS.Audio/BoomerangOS.Audio.csproj" Id="daed2623-0b37-4d10-ab1c-82c2cc05b17d" />
-  <Project Path="../BoomerangOS.Common/BoomerangOS.Common.csproj" Id="fd925a12-a0c8-492a-b1d3-212d20eaa935" />
-  <Project Path="../BoomerangOS.GameLauncher/BoomerangOS.GameLauncher.csproj" Id="9f562a25-a8c9-480a-9a74-c0fe3bf59cff" />
-  <Project Path="../BoomerangOS.Graphics/BoomerangOS.Graphics.csproj" Id="30b15654-51f9-47bb-b565-f7f128873618" />
-  <Project Path="../BoomerangOS.Input/BoomerangOS.Input.csproj" Id="8203a9db-f9ed-4f29-856b-204e8e2acc28" />
-  <Project Path="../BoomerangOS.PackageManager/BoomerangOS.PackageManager.csproj" Id="06daa5b4-07a8-4c89-a8a2-1681cd277e75" />
-  <Project Path="../BoomerangOS.SDK/BoomerangOS.SDK.csproj" Id="6d084cff-09e5-45d7-906d-720e3fd043cc" />
-  <Project Path="../BoomerangOS.Services/BoomerangOS.Services.csproj" Id="0f804468-52a3-4f6a-a1e6-43a632455c17" />
-  <Project Path="../BoomerangOS.Shell/BoomerangOS.Shell.csproj" Id="a32e9a4f-5bce-46d9-992d-d443010091d0" />
-  <Project Path="../BoomerangOS.UI/BoomerangOS.UI.csproj" Id="cee4de04-5c30-4d92-8d37-252e7d80c8ec" />
+  <Project Path="BoomerangOS.Assets/BoomerangOS.Assets.csproj" Id="a49333b3-46cf-47ed-ab7c-b68dd8d113bb" />
+  <Project Path="BoomerangOS.Audio/BoomerangOS.Audio.csproj" Id="daed2623-0b37-4d10-ab1c-82c2cc05b17d" />
+  <Project Path="BoomerangOS.Common/BoomerangOS.Common.csproj" Id="fd925a12-a0c8-492a-b1d3-212d20eaa935" />
+  <Project Path="BoomerangOS.GameLauncher/BoomerangOS.GameLauncher.csproj" Id="9f562a25-a8c9-480a-9a74-c0fe3bf59cff" />
+  <Project Path="BoomerangOS.Graphics/BoomerangOS.Graphics.csproj" Id="30b15654-51f9-47bb-b565-f7f128873618" />
+  <Project Path="BoomerangOS.Input/BoomerangOS.Input.csproj" Id="8203a9db-f9ed-4f29-856b-204e8e2acc28" />
+  <Project Path="BoomerangOS.PackageManager/BoomerangOS.PackageManager.csproj" Id="06daa5b4-07a8-4c89-a8a2-1681cd277e75" />
+  <Project Path="BoomerangOS.SDK/BoomerangOS.SDK.csproj" Id="6d084cff-09e5-45d7-906d-720e3fd043cc" />
+  <Project Path="BoomerangOS.Services/BoomerangOS.Services.csproj" Id="0f804468-52a3-4f6a-a1e6-43a632455c17" />
+  <Project Path="BoomerangOS.Shell/BoomerangOS.Shell.csproj" Id="a32e9a4f-5bce-46d9-992d-d443010091d0" />
+  <Project Path="BoomerangOS.UI/BoomerangOS.UI.csproj" Id="cee4de04-5c30-4d92-8d37-252e7d80c8ec" />
 </Solution>

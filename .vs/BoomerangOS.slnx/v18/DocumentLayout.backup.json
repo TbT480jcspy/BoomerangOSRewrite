@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOSRewrite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|..\\BoomerangOS.UI\\BoomerangOS.UI.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.ui\\core\\uiscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|..\\BoomerangOS.UI\\BoomerangOS.UI.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.ui\\core\\uielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|..\\BoomerangOS.UI\\BoomerangOS.UI.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.ui\\boomerangos.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -66,7 +72,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BoomerangOS.UI",
+              "Title": "UIScene.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.UI\\Core\\UIScene.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.UI\\Core\\UIScene.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.UI\\Core\\UIScene.cs",
+              "RelativeToolTip": "..\\BoomerangOS.UI\\Core\\UIScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:03:40.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIElement.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.UI\\Core\\UIElement.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.UI\\Core\\UIElement.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.UI\\Core\\UIElement.cs",
+              "RelativeToolTip": "..\\BoomerangOS.UI\\Core\\UIElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:03:25.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoomerangOS.UI.csproj",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.UI\\BoomerangOS.UI.csproj",
               "RelativeDocumentMoniker": "..\\BoomerangOS.UI\\BoomerangOS.UI.csproj",
               "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.UI\\BoomerangOS.UI.csproj",
@@ -78,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GLRenderer.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
@@ -86,12 +118,11 @@
               "RelativeToolTip": "..\\BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:01:01.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T12:01:01.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Renderer.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Graphics\\Rendering\\Renderer.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Graphics\\Rendering\\Renderer.cs",
@@ -99,13 +130,12 @@
               "RelativeToolTip": "..\\BoomerangOS.Graphics\\Rendering\\Renderer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:00:52.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T12:00:52.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BoomerangOS.Graphics",
+              "DocumentIndex": 5,
+              "Title": "BoomerangOS.Graphics.csproj",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj",
               "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj",
@@ -117,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Engine.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Shell\\Engine\\Engine.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Shell\\Engine\\Engine.cs",
@@ -125,13 +155,12 @@
               "RelativeToolTip": "..\\BoomerangOS.Shell\\Engine\\Engine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T11:58:39.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T11:58:39.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BoomerangOS.Shell",
+              "DocumentIndex": 7,
+              "Title": "BoomerangOS.Shell.csproj",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
               "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
@@ -143,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GameTime.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Common\\Time\\GameTime.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Common\\Time\\GameTime.cs",
@@ -151,12 +180,11 @@
               "RelativeToolTip": "..\\BoomerangOS.Common\\Time\\GameTime.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T11:53:41.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T11:53:41.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Common\\Logging\\Logger.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Common\\Logging\\Logger.cs",
@@ -164,13 +192,12 @@
               "RelativeToolTip": "..\\BoomerangOS.Common\\Logging\\Logger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T11:53:31.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T11:53:31.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BoomerangOS.Common",
+              "DocumentIndex": 11,
+              "Title": "BoomerangOS.Common.csproj",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Common\\BoomerangOS.Common.csproj",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Common\\BoomerangOS.Common.csproj",
               "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Common\\BoomerangOS.Common.csproj",
@@ -182,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.GameLauncher\\Class1.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.GameLauncher\\Class1.cs",
@@ -190,12 +217,11 @@
               "RelativeToolTip": "..\\BoomerangOS.GameLauncher\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T11:50:40.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T11:50:40.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.SDK\\Class1.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.SDK\\Class1.cs",
@@ -207,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Services\\Class1.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Services\\Class1.cs",
@@ -219,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Shell\\Program.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Shell\\Program.cs",
@@ -227,12 +253,11 @@
               "RelativeToolTip": "..\\BoomerangOS.Shell\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T11:47:11.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T11:47:11.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.PackageManager\\Class1.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.PackageManager\\Class1.cs",
@@ -244,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Assets\\Class1.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Assets\\Class1.cs",
@@ -256,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Audio\\Class1.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Audio\\Class1.cs",
@@ -268,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Input\\Class1.cs",
               "RelativeDocumentMoniker": "..\\BoomerangOS.Input\\Class1.cs",

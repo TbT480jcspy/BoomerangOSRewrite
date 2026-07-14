@@ -7,6 +7,86 @@
       "RelativeMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|solutionrelative:boomerangos.shell\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\rendering\\glrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\rendering\\glrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.shell\\scenes\\bootscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|solutionrelative:boomerangos.shell\\scenes\\bootscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\rendering\\graphics2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\rendering\\graphics2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.shell\\boomerangos.shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|solutionrelative:boomerangos.shell\\boomerangos.shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\shaders\\color.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\shaders\\color.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\shaders\\color.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\shaders\\color.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\2d\\quadrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\2d\\quadrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\shaders\\sprite.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\shaders\\sprite.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\shaders\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\shaders\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\2d\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\2d\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\math\\camera2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\math\\camera2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\boomerangos.graphics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\boomerangos.graphics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\shaders\\sprite.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\shaders\\sprite.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\2d\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\2d\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|BoomerangOS.UI\\BoomerangOS.UI.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.ui\\rendering\\textrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|BoomerangOS.UI\\BoomerangOS.UI.csproj|solutionrelative:boomerangos.ui\\rendering\\textrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|BoomerangOS.UI\\BoomerangOS.UI.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.ui\\text\\textelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|BoomerangOS.UI\\BoomerangOS.UI.csproj|solutionrelative:boomerangos.ui\\text\\textelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|BoomerangOS.UI\\BoomerangOS.UI.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.ui\\fonts\\font.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|BoomerangOS.UI\\BoomerangOS.UI.csproj|solutionrelative:boomerangos.ui\\fonts\\font.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|BoomerangOS.UI\\BoomerangOS.UI.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.ui\\boomerangos.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|BoomerangOS.UI\\BoomerangOS.UI.csproj|solutionrelative:boomerangos.ui\\boomerangos.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.shell\\scenes\\iscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|solutionrelative:boomerangos.shell\\scenes\\iscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.shell\\scenes\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|solutionrelative:boomerangos.shell\\scenes\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD925A12-A0C8-492A-B1D3-212D20EAA935}|BoomerangOS.Common\\BoomerangOS.Common.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.common\\time\\gametime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD925A12-A0C8-492A-B1D3-212D20EAA935}|BoomerangOS.Common\\BoomerangOS.Common.csproj|solutionrelative:boomerangos.common\\time\\gametime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +95,8 @@
       "RelativeMoniker": "D:0:0:{FD925A12-A0C8-492A-B1D3-212D20EAA935}|BoomerangOS.Common\\BoomerangOS.Common.csproj|solutionrelative:boomerangos.common\\time\\fpscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\rendering\\glrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\rendering\\glrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.graphics\\rendering\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|solutionrelative:boomerangos.graphics\\rendering\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.shell\\boomerangos.shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|solutionrelative:boomerangos.shell\\boomerangos.shell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|BoomerangOS.Shell\\BoomerangOS.Shell.csproj|c:\\users\\mason\\documents\\github\\boomerangosrewrite\\boomerangos.shell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +114,284 @@
       "DocumentGroups": [
         {
           "DockedHeight": 292,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Graphics2D.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Rendering\\Graphics2D.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\Rendering\\Graphics2D.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Rendering\\Graphics2D.cs",
+              "RelativeToolTip": "BoomerangOS.Graphics\\Rendering\\Graphics2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T14:58:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Color.frag",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Shaders\\Color.frag",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\Shaders\\Color.frag",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Shaders\\Color.frag",
+              "RelativeToolTip": "BoomerangOS.Graphics\\Shaders\\Color.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-14T14:21:12.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Color.vert",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Shaders\\Color.vert",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\Shaders\\Color.vert",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Shaders\\Color.vert",
+              "RelativeToolTip": "BoomerangOS.Graphics\\Shaders\\Color.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-14T14:21:01.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoomerangOS.Shell.csproj",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
+              "RelativeDocumentMoniker": "BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
+              "RelativeToolTip": "BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-14T12:50:20.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BootScene.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Scenes\\BootScene.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Shell\\Scenes\\BootScene.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Scenes\\BootScene.cs",
+              "RelativeToolTip": "BoomerangOS.Shell\\Scenes\\BootScene.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:34:23.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Engine\\Engine.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Shell\\Engine\\Engine.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Engine\\Engine.cs",
+              "RelativeToolTip": "BoomerangOS.Shell\\Engine\\Engine.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAYwJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:50:32.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GLRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
+              "RelativeToolTip": "BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:41:04.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sprite.vert",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Shaders\\Sprite.vert",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\Shaders\\Sprite.vert",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Shaders\\Sprite.vert",
+              "RelativeToolTip": "BoomerangOS.Graphics\\Shaders\\Sprite.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-14T14:05:11.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shader.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Shaders\\Shader.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\Shaders\\Shader.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Shaders\\Shader.cs",
+              "RelativeToolTip": "BoomerangOS.Graphics\\Shaders\\Shader.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T14:05:05.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Camera2D.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Math\\Camera2D.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\Math\\Camera2D.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Math\\Camera2D.cs",
+              "RelativeToolTip": "BoomerangOS.Graphics\\Math\\Camera2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T14:13:16.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BoomerangOS.Graphics",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj",
+              "RelativeToolTip": "BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-14T14:10:37.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sprite.frag",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Shaders\\Sprite.frag",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\Shaders\\Sprite.frag",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Shaders\\Sprite.frag",
+              "RelativeToolTip": "BoomerangOS.Graphics\\Shaders\\Sprite.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-14T14:05:25.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\2D\\Sprite.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\2D\\Sprite.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\2D\\Sprite.cs",
+              "RelativeToolTip": "BoomerangOS.Graphics\\2D\\Sprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T14:01:37.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Texture.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\2D\\Texture.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\2D\\Texture.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\2D\\Texture.cs",
+              "RelativeToolTip": "BoomerangOS.Graphics\\2D\\Texture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T14:01:32.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuadRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\2D\\QuadRenderer.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\2D\\QuadRenderer.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\2D\\QuadRenderer.cs",
+              "RelativeToolTip": "BoomerangOS.Graphics\\2D\\QuadRenderer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T14:01:25.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Font.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.UI\\Fonts\\Font.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.UI\\Fonts\\Font.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.UI\\Fonts\\Font.cs",
+              "RelativeToolTip": "BoomerangOS.UI\\Fonts\\Font.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:55:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TextRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.UI\\Rendering\\TextRenderer.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.UI\\Rendering\\TextRenderer.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.UI\\Rendering\\TextRenderer.cs",
+              "RelativeToolTip": "BoomerangOS.UI\\Rendering\\TextRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:54:19.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TextElement.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.UI\\Text\\TextElement.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.UI\\Text\\TextElement.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.UI\\Text\\TextElement.cs",
+              "RelativeToolTip": "BoomerangOS.UI\\Text\\TextElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:48:21.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BoomerangOS.UI",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.UI\\BoomerangOS.UI.csproj",
+              "RelativeDocumentMoniker": "BoomerangOS.UI\\BoomerangOS.UI.csproj",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.UI\\BoomerangOS.UI.csproj",
+              "RelativeToolTip": "BoomerangOS.UI\\BoomerangOS.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-14T13:48:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Scenes\\SceneManager.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Shell\\Scenes\\SceneManager.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Scenes\\SceneManager.cs",
+              "RelativeToolTip": "BoomerangOS.Shell\\Scenes\\SceneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:32:59.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IScene.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Scenes\\IScene.cs",
+              "RelativeDocumentMoniker": "BoomerangOS.Shell\\Scenes\\IScene.cs",
+              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Scenes\\IScene.cs",
+              "RelativeToolTip": "BoomerangOS.Shell\\Scenes\\IScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:32:44.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "GameTime.cs",
               "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Common\\Time\\GameTime.cs",
               "RelativeDocumentMoniker": "BoomerangOS.Common\\Time\\GameTime.cs",
@@ -59,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 22,
               "Title": "FPSCounter.cs",
               "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Common\\Time\\FPSCounter.cs",
               "RelativeDocumentMoniker": "BoomerangOS.Common\\Time\\FPSCounter.cs",
@@ -72,20 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Engine\\Engine.cs",
-              "RelativeDocumentMoniker": "BoomerangOS.Shell\\Engine\\Engine.cs",
-              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Engine\\Engine.cs",
-              "RelativeToolTip": "BoomerangOS.Shell\\Engine\\Engine.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowE0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:50:32.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\Program.cs",
               "RelativeDocumentMoniker": "BoomerangOS.Shell\\Program.cs",
@@ -98,33 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BoomerangOS.Shell",
-              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
-              "RelativeDocumentMoniker": "BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
-              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
-              "RelativeToolTip": "BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-14T12:50:20.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GLRenderer.cs",
-              "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
-              "RelativeDocumentMoniker": "BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
-              "ToolTip": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
-              "RelativeToolTip": "BoomerangOS.Graphics\\Rendering\\GLRenderer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:41:04.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "IRenderer.cs",
               "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Graphics\\Rendering\\IRenderer.cs",
               "RelativeDocumentMoniker": "BoomerangOS.Graphics\\Rendering\\IRenderer.cs",
@@ -137,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 25,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Common\\Logging\\Logger.cs",
               "RelativeDocumentMoniker": "BoomerangOS.Common\\Logging\\Logger.cs",

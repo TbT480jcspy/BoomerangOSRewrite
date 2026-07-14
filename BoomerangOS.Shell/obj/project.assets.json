@@ -136,6 +136,15 @@
           }
         }
       },
+      "StbTrueTypeSharp/1.26.12": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/StbTrueTypeSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/StbTrueTypeSharp.dll": {}
+        }
+      },
       "Ultz.Native.GLFW/3.4.0": {
         "type": "package",
         "compile": {
@@ -194,6 +203,7 @@
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "BoomerangOS.Common": "1.0.0",
+          "Silk.NET.Maths": "2.23.0",
           "Silk.NET.OpenGL": "2.23.0"
         },
         "compile": {
@@ -211,6 +221,19 @@
         },
         "runtime": {
           "bin/placeholder/BoomerangOS.Input.dll": {}
+        }
+      },
+      "BoomerangOS.UI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "StbTrueTypeSharp": "1.26.12"
+        },
+        "compile": {
+          "bin/placeholder/BoomerangOS.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BoomerangOS.UI.dll": {}
         }
       }
     }
@@ -405,6 +428,19 @@
         "silkdotnet_v3.png"
       ]
     },
+    "StbTrueTypeSharp/1.26.12": {
+      "sha512": "hCc6/OsfcPa5VsLECcEU2m78WOshBrKwK42nAodSm9Z5wH68f7n66SoiRLCdGCkDaqbWz2TlX4zYHIjogj1HJA==",
+      "type": "package",
+      "path": "stbtruetypesharp/1.26.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net471/StbTrueTypeSharp.dll",
+        "lib/netstandard2.0/StbTrueTypeSharp.dll",
+        "stbtruetypesharp.1.26.12.nupkg.sha512",
+        "stbtruetypesharp.nuspec"
+      ]
+    },
     "Ultz.Native.GLFW/3.4.0": {
       "sha512": "Iy22JopynbOJ32vA0lBhFEzGi65GQJBuJHYBYRBpydrDpNoTiHnjIXfA65Gu+8qsOr/ZEoIF8r9aHCgAXuO6DA==",
       "type": "package",
@@ -443,6 +479,11 @@
       "type": "project",
       "path": "../BoomerangOS.Input/BoomerangOS.Input.csproj",
       "msbuildProject": "../BoomerangOS.Input/BoomerangOS.Input.csproj"
+    },
+    "BoomerangOS.UI/1.0.0": {
+      "type": "project",
+      "path": "../BoomerangOS.UI/BoomerangOS.UI.csproj",
+      "msbuildProject": "../BoomerangOS.UI/BoomerangOS.UI.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -450,6 +491,7 @@
       "BoomerangOS.Common >= 1.0.0",
       "BoomerangOS.Graphics >= 1.0.0",
       "BoomerangOS.Input >= 1.0.0",
+      "BoomerangOS.UI >= 1.0.0",
       "Silk.NET.Windowing >= 2.23.0"
     ]
   },
@@ -494,6 +536,9 @@
             },
             "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Input\\BoomerangOS.Input.csproj": {
               "projectPath": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Input\\BoomerangOS.Input.csproj"
+            },
+            "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.UI\\BoomerangOS.UI.csproj": {
+              "projectPath": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.UI\\BoomerangOS.UI.csproj"
             }
           }
         }

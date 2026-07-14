@@ -9,6 +9,7 @@
       "BoomerangOS.Graphics/1.0.0": {
         "dependencies": {
           "BoomerangOS.Common": "1.0.0",
+          "Silk.NET.Maths": "2.23.0",
           "Silk.NET.OpenGL": "2.23.0"
         },
         "runtime": {

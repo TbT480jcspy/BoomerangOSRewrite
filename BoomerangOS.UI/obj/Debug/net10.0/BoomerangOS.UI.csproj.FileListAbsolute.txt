@@ -10,3 +10,4 @@ C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net1
 C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\refint\BoomerangOS.UI.dll
 C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\BoomerangOS.UI.pdb
 C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\ref\BoomerangOS.UI.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\BoomerangOS.UI.csproj.AssemblyReference.cache

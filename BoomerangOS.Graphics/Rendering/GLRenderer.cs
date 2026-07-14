@@ -1,6 +1,7 @@
-﻿using System;
-using BoomerangOS.Common.Logging;
+﻿using BoomerangOS.Common.Logging;
+using BoomerangOS.Graphics._2D;
 using Silk.NET.OpenGL;
+using System;
 
 namespace BoomerangOS.Graphics.Rendering
 {
@@ -8,9 +9,20 @@ namespace BoomerangOS.Graphics.Rendering
     {
         private GL _gl = null!;
 
-        public GLRenderer(GL gl)
+        private QuadRenderer _quadRenderer;
+
+        public QuadRenderer QuadRenderer
+        {
+            get
+            {
+                return _quadRenderer;
+            }
+        }
+
+        public GLRenderer(GL gl, QuadRenderer quadRenderer)
         {
             _gl = gl;
+            _quadRenderer = quadRenderer;
         }
 
         public void Initialize()

@@ -12,4 +12,8 @@
     <Folder Include="Animation\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="StbTrueTypeSharp" Version="1.26.12" />
+  </ItemGroup>
+
 </Project>

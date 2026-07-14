@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1zZBZCH9Jrw=",
+  "dgSpecHash": "dYLDU5QV4vY=",
   "success": true,
   "projectFilePath": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Shell\\BoomerangOS.Shell.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\mason\\.nuget\\packages\\silk.net.windowing\\2.23.0\\silk.net.windowing.2.23.0.nupkg.sha512",
     "C:\\Users\\mason\\.nuget\\packages\\silk.net.windowing.common\\2.23.0\\silk.net.windowing.common.2.23.0.nupkg.sha512",
     "C:\\Users\\mason\\.nuget\\packages\\silk.net.windowing.glfw\\2.23.0\\silk.net.windowing.glfw.2.23.0.nupkg.sha512",
+    "C:\\Users\\mason\\.nuget\\packages\\stbtruetypesharp\\1.26.12\\stbtruetypesharp.1.26.12.nupkg.sha512",
     "C:\\Users\\mason\\.nuget\\packages\\ultz.native.glfw\\3.4.0\\ultz.native.glfw.3.4.0.nupkg.sha512"
   ],
   "logs": []

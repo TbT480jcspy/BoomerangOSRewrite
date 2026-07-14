@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoomerangOS.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74c7fcb84e8088f2198f7d235e6422decac3fd84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38d7cff747a7eb856ee9d4d9787ddcb80b2d3786")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoomerangOS.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoomerangOS.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

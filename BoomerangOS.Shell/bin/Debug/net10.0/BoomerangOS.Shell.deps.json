@@ -11,6 +11,7 @@
           "BoomerangOS.Common": "1.0.0",
           "BoomerangOS.Graphics": "1.0.0",
           "BoomerangOS.Input": "1.0.0",
+          "BoomerangOS.UI": "1.0.0",
           "Silk.NET.Windowing": "2.23.0"
         },
         "runtime": {
@@ -107,6 +108,14 @@
           }
         }
       },
+      "StbTrueTypeSharp/1.26.12": {
+        "runtime": {
+          "lib/netstandard2.0/StbTrueTypeSharp.dll": {
+            "assemblyVersion": "1.26.12.0",
+            "fileVersion": "1.26.12.0"
+          }
+        }
+      },
       "Ultz.Native.GLFW/3.4.0": {
         "runtimeTargets": {
           "runtimes/linux-arm/native/libglfw.so.3": {
@@ -162,6 +171,7 @@
       "BoomerangOS.Graphics/1.0.0": {
         "dependencies": {
           "BoomerangOS.Common": "1.0.0",
+          "Silk.NET.Maths": "2.23.0",
           "Silk.NET.OpenGL": "2.23.0"
         },
         "runtime": {
@@ -174,6 +184,17 @@
       "BoomerangOS.Input/1.0.0": {
         "runtime": {
           "BoomerangOS.Input.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BoomerangOS.UI/1.0.0": {
+        "dependencies": {
+          "StbTrueTypeSharp": "1.26.12"
+        },
+        "runtime": {
+          "BoomerangOS.UI.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -250,6 +271,13 @@
       "path": "silk.net.windowing.glfw/2.23.0",
       "hashPath": "silk.net.windowing.glfw.2.23.0.nupkg.sha512"
     },
+    "StbTrueTypeSharp/1.26.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hCc6/OsfcPa5VsLECcEU2m78WOshBrKwK42nAodSm9Z5wH68f7n66SoiRLCdGCkDaqbWz2TlX4zYHIjogj1HJA==",
+      "path": "stbtruetypesharp/1.26.12",
+      "hashPath": "stbtruetypesharp.1.26.12.nupkg.sha512"
+    },
     "Ultz.Native.GLFW/3.4.0": {
       "type": "package",
       "serviceable": true,
@@ -268,6 +296,11 @@
       "sha512": ""
     },
     "BoomerangOS.Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BoomerangOS.UI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

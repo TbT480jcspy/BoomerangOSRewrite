@@ -1,10 +1,39 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\XByA\\source\\repos\\BoomerangOS\\",
+  "WorkspaceRootPath": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOSRewrite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C87636E3-6CD5-49CA-A212-A72E1AABF3D2}|BoomerangOS.csproj|c:\\users\\xbya\\source\\repos\\boomerangos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C87636E3-6CD5-49CA-A212-A72E1AABF3D2}|BoomerangOS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F562A25-A8C9-480A-9A74-C0FE3BF59CFF}|..\\BoomerangOS.GameLauncher\\BoomerangOS.GameLauncher.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.gamelauncher\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DAA5B4-07A8-4C89-A8A2-1681CD277E75}|..\\BoomerangOS.PackageManager\\BoomerangOS.PackageManager.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.packagemanager\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D084CFF-09E5-45D7-906D-720E3FD043CC}|..\\BoomerangOS.SDK\\BoomerangOS.SDK.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.sdk\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F804468-52A3-4F6A-A1E6-43A632455C17}|..\\BoomerangOS.Services\\BoomerangOS.Services.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD925A12-A0C8-492A-B1D3-212D20EAA935}|..\\BoomerangOS.Common\\BoomerangOS.Common.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49333B3-46CF-47ED-AB7C-B68DD8D113BB}|..\\BoomerangOS.Assets\\BoomerangOS.Assets.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.assets\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAED2623-0B37-4D10-AB1C-82C2CC05B17D}|..\\BoomerangOS.Audio\\BoomerangOS.Audio.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.audio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8203A9DB-F9ED-4F29-856B-204E8E2ACC28}|..\\BoomerangOS.Input\\BoomerangOS.Input.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.input\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE4DE04-5C30-4D92-8D37-252E7D80C8EC}|..\\BoomerangOS.UI\\BoomerangOS.UI.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.ui\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B15654-51F9-47BB-B565-F7F128873618}|..\\BoomerangOS.Graphics\\BoomerangOS.Graphics.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.graphics\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32E9A4F-5BCE-46D9-992D-D443010091D0}|..\\BoomerangOS.Shell\\BoomerangOS.Shell.csproj|c:\\users\\xbya\\documents\\github\\boomerangos.shell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +48,144 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\XByA\\source\\repos\\BoomerangOS\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\XByA\\source\\repos\\BoomerangOS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.GameLauncher\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.GameLauncher\\Class1.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.GameLauncher\\Class1.cs",
+              "RelativeToolTip": "..\\BoomerangOS.GameLauncher\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T11:45:03.39Z",
+              "WhenOpened": "2026-07-14T11:50:40.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.PackageManager\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.PackageManager\\Class1.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.PackageManager\\Class1.cs",
+              "RelativeToolTip": "..\\BoomerangOS.PackageManager\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:50:21.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.SDK\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.SDK\\Class1.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.SDK\\Class1.cs",
+              "RelativeToolTip": "..\\BoomerangOS.SDK\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:49:49.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Services\\Class1.cs",
+              "RelativeToolTip": "..\\BoomerangOS.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:49:32.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Common\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.Common\\Class1.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Common\\Class1.cs",
+              "RelativeToolTip": "..\\BoomerangOS.Common\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:49:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Assets\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.Assets\\Class1.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Assets\\Class1.cs",
+              "RelativeToolTip": "..\\BoomerangOS.Assets\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:48:49.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Audio\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.Audio\\Class1.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Audio\\Class1.cs",
+              "RelativeToolTip": "..\\BoomerangOS.Audio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:48:21.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Input\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.Input\\Class1.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Input\\Class1.cs",
+              "RelativeToolTip": "..\\BoomerangOS.Input\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:48:08.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.UI\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.UI\\Class1.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.UI\\Class1.cs",
+              "RelativeToolTip": "..\\BoomerangOS.UI\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:47:53.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Graphics\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.Graphics\\Class1.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Graphics\\Class1.cs",
+              "RelativeToolTip": "..\\BoomerangOS.Graphics\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:47:34.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Shell\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BoomerangOS.Shell\\Program.cs",
+              "ToolTip": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.Shell\\Program.cs",
+              "RelativeToolTip": "..\\BoomerangOS.Shell\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:47:11.672Z",
               "EditorCaption": ""
             }
           ]

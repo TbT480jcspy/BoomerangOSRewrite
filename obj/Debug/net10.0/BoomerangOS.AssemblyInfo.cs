@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoomerangOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+234fb27e3a3684a14a4b5e822e016afd22bc84fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoomerangOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoomerangOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XByA\\source\\repos\\BoomerangOS\\BoomerangOS.csproj",
+      "projectUniqueName": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.csproj",
       "projectName": "BoomerangOS",
-      "projectPath": "C:\\Users\\XByA\\source\\repos\\BoomerangOS\\BoomerangOS.csproj",
+      "projectPath": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.csproj",
       "packagesPath": "C:\\Users\\XByA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\XByA\\source\\repos\\BoomerangOS\\obj\\",
+      "outputPath": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOSRewrite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

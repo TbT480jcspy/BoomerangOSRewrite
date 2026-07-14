@@ -1,0 +1,12 @@
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\bin\Debug\net10.0\BoomerangOS.GameLauncher.deps.json
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\bin\Debug\net10.0\BoomerangOS.GameLauncher.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\bin\Debug\net10.0\BoomerangOS.GameLauncher.pdb
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\obj\Debug\net10.0\BoomerangOS.GameLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\obj\Debug\net10.0\BoomerangOS.GameLauncher.AssemblyInfoInputs.cache
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\obj\Debug\net10.0\BoomerangOS.GameLauncher.AssemblyInfo.cs
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\obj\Debug\net10.0\BoomerangOS.GameLauncher.csproj.CoreCompileInputs.cache
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\obj\Debug\net10.0\BoomerangOS.GameLauncher.sourcelink.json
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\obj\Debug\net10.0\BoomerangOS.GameLauncher.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\obj\Debug\net10.0\refint\BoomerangOS.GameLauncher.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\obj\Debug\net10.0\BoomerangOS.GameLauncher.pdb
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.GameLauncher\obj\Debug\net10.0\ref\BoomerangOS.GameLauncher.dll

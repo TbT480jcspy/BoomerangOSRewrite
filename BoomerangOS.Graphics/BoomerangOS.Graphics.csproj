@@ -10,4 +10,12 @@
     <Folder Include="Window\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Silk.NET.OpenGL" Version="2.23.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BoomerangOS.Common\BoomerangOS.Common.csproj" />
+  </ItemGroup>
+
 </Project>

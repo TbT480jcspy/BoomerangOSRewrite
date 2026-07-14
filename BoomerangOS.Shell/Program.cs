@@ -1,10 +1,14 @@
-﻿namespace BoomerangOS.Shell
+﻿using BoomerangOS.Shell.Engine;
+
+namespace BoomerangOS.Shell
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Engine.Engine engine = new();
+
+            engine.Run();
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\bin\Debug\net10.0\BoomerangOS.UI.deps.json
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\bin\Debug\net10.0\BoomerangOS.UI.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\bin\Debug\net10.0\BoomerangOS.UI.pdb
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\BoomerangOS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\BoomerangOS.UI.AssemblyInfoInputs.cache
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\BoomerangOS.UI.AssemblyInfo.cs
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\BoomerangOS.UI.csproj.CoreCompileInputs.cache
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\BoomerangOS.UI.sourcelink.json
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\BoomerangOS.UI.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\refint\BoomerangOS.UI.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\BoomerangOS.UI.pdb
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.UI\obj\Debug\net10.0\ref\BoomerangOS.UI.dll

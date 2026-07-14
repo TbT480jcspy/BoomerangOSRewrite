@@ -1,0 +1,16 @@
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\bin\Debug\net10.0\BoomerangOS.Graphics.deps.json
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\bin\Debug\net10.0\BoomerangOS.Graphics.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\bin\Debug\net10.0\BoomerangOS.Graphics.pdb
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\bin\Debug\net10.0\BoomerangOS.Common.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\bin\Debug\net10.0\BoomerangOS.Common.pdb
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\BoomerangOS.Graphics.csproj.AssemblyReference.cache
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\BoomerangOS.Graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\BoomerangOS.Graphics.AssemblyInfoInputs.cache
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\BoomerangOS.Graphics.AssemblyInfo.cs
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\BoomerangOS.Graphics.csproj.CoreCompileInputs.cache
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\BoomerangOS.Graphics.sourcelink.json
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\Boomeran.FB720040.Up2Date
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\BoomerangOS.Graphics.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\refint\BoomerangOS.Graphics.dll
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\BoomerangOS.Graphics.pdb
+C:\Users\mason\Documents\GitHub\BoomerangOSRewrite\BoomerangOS.Graphics\obj\Debug\net10.0\ref\BoomerangOS.Graphics.dll

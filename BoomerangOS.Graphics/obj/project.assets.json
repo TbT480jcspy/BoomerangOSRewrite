@@ -1,11 +1,224 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Microsoft.DotNet.PlatformAbstractions/3.1.6": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyModel/9.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyModel.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "Silk.NET.Core/2.23.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.DotNet.PlatformAbstractions": "3.1.6",
+          "Microsoft.Extensions.DependencyModel": "9.0.9"
+        },
+        "compile": {
+          "lib/net6.0/Silk.NET.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Silk.NET.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Silk.NET.Maths/2.23.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Silk.NET.Maths.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Silk.NET.Maths.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Silk.NET.OpenGL/2.23.0": {
+        "type": "package",
+        "dependencies": {
+          "Silk.NET.Core": "2.23.0",
+          "Silk.NET.Maths": "2.23.0"
+        },
+        "compile": {
+          "lib/net5.0/Silk.NET.OpenGL.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Silk.NET.OpenGL.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "BoomerangOS.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/BoomerangOS.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BoomerangOS.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Microsoft.DotNet.PlatformAbstractions/3.1.6": {
+      "sha512": "jek4XYaQ/PGUwDKKhwR8K47Uh1189PFzMeLqO83mXrXQVIpARZCcfuDedH50YDTepBkfijCZN5U/vZi++erxtg==",
+      "type": "package",
+      "path": "microsoft.dotnet.platformabstractions/3.1.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net45/Microsoft.DotNet.PlatformAbstractions.dll",
+        "lib/net45/Microsoft.DotNet.PlatformAbstractions.xml",
+        "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll",
+        "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.xml",
+        "lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.dll",
+        "lib/netstandard2.0/Microsoft.DotNet.PlatformAbstractions.xml",
+        "microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+        "microsoft.dotnet.platformabstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.DependencyModel/9.0.9": {
+      "sha512": "fNGvKct2De8ghm0Bpfq0iWthtzIWabgOTi+gJhNOPhNJIowXNEUE2eZNW/zNCzrHVA3PXg2yZ+3cWZndC2IqYA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencymodel/9.0.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyModel.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net8.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyModel.targets",
+        "lib/net462/Microsoft.Extensions.DependencyModel.dll",
+        "lib/net462/Microsoft.Extensions.DependencyModel.xml",
+        "lib/net8.0/Microsoft.Extensions.DependencyModel.dll",
+        "lib/net8.0/Microsoft.Extensions.DependencyModel.xml",
+        "lib/net9.0/Microsoft.Extensions.DependencyModel.dll",
+        "lib/net9.0/Microsoft.Extensions.DependencyModel.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.xml",
+        "microsoft.extensions.dependencymodel.9.0.9.nupkg.sha512",
+        "microsoft.extensions.dependencymodel.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Silk.NET.Core/2.23.0": {
+      "sha512": "D7AT/nnwlB+4RZ84XY8QNGBZMJI5z9l4CSSETIJ1wCfRJzRt/341y3MRZ4HbnFz4r/IGaWOEZr86iE+0/65yyQ==",
+      "type": "package",
+      "path": "silk.net.core/2.23.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net5.0/Silk.NET.Core.dll",
+        "lib/net5.0/Silk.NET.Core.xml",
+        "lib/net6.0/Silk.NET.Core.dll",
+        "lib/net6.0/Silk.NET.Core.xml",
+        "lib/netcoreapp3.1/Silk.NET.Core.dll",
+        "lib/netcoreapp3.1/Silk.NET.Core.xml",
+        "lib/netstandard2.0/Silk.NET.Core.dll",
+        "lib/netstandard2.0/Silk.NET.Core.xml",
+        "lib/netstandard2.1/Silk.NET.Core.dll",
+        "lib/netstandard2.1/Silk.NET.Core.xml",
+        "silk.net.core.2.23.0.nupkg.sha512",
+        "silk.net.core.nuspec",
+        "silkdotnet_v3.png"
+      ]
+    },
+    "Silk.NET.Maths/2.23.0": {
+      "sha512": "r8PdIVzME8EH0qAgbmRPO87I4GfgR2j8TofT7EMuRJDf1QluoQwnVypDoFJjQ2ZBSRsGYk5unYxxogI05Ogsmw==",
+      "type": "package",
+      "path": "silk.net.maths/2.23.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net5.0/Silk.NET.Maths.dll",
+        "lib/net5.0/Silk.NET.Maths.xml",
+        "lib/net7.0-android33.0/Silk.NET.Maths.dll",
+        "lib/net7.0-android33.0/Silk.NET.Maths.xml",
+        "lib/net7.0-ios16.1/Silk.NET.Maths.dll",
+        "lib/net7.0-ios16.1/Silk.NET.Maths.xml",
+        "lib/netcoreapp3.1/Silk.NET.Maths.dll",
+        "lib/netcoreapp3.1/Silk.NET.Maths.xml",
+        "lib/netstandard2.0/Silk.NET.Maths.dll",
+        "lib/netstandard2.0/Silk.NET.Maths.xml",
+        "lib/netstandard2.1/Silk.NET.Maths.dll",
+        "lib/netstandard2.1/Silk.NET.Maths.xml",
+        "silk.net.maths.2.23.0.nupkg.sha512",
+        "silk.net.maths.nuspec",
+        "silkdotnet_v3.png"
+      ]
+    },
+    "Silk.NET.OpenGL/2.23.0": {
+      "sha512": "CIakUoUqiAyRPykMk54tr1M1XpbJrT/iw12T85HDQcuRCFlBa1cxbX7v3FmtznKO5eM89esfmGNCgqDaKBiWfg==",
+      "type": "package",
+      "path": "silk.net.opengl/2.23.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net5.0/Silk.NET.OpenGL.dll",
+        "lib/net5.0/Silk.NET.OpenGL.xml",
+        "lib/netcoreapp3.1/Silk.NET.OpenGL.dll",
+        "lib/netcoreapp3.1/Silk.NET.OpenGL.xml",
+        "lib/netstandard2.0/Silk.NET.OpenGL.dll",
+        "lib/netstandard2.0/Silk.NET.OpenGL.xml",
+        "lib/netstandard2.1/Silk.NET.OpenGL.dll",
+        "lib/netstandard2.1/Silk.NET.OpenGL.xml",
+        "silk.net.opengl.2.23.0.nupkg.sha512",
+        "silk.net.opengl.nuspec",
+        "silkdotnet_v3.png"
+      ]
+    },
+    "BoomerangOS.Common/1.0.0": {
+      "type": "project",
+      "path": "../BoomerangOS.Common/BoomerangOS.Common.csproj",
+      "msbuildProject": "../BoomerangOS.Common/BoomerangOS.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "BoomerangOS.Common >= 1.0.0",
+      "Silk.NET.OpenGL >= 2.23.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mason\\.nuget\\packages\\": {},
@@ -39,7 +252,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Common\\BoomerangOS.Common.csproj": {
+              "projectPath": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.Common\\BoomerangOS.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -58,6 +275,12 @@
       "net10.0": {
         "framework": "net10.0",
         "targetAlias": "net10.0",
+        "dependencies": {
+          "Silk.NET.OpenGL": {
+            "target": "Package",
+            "version": "[2.23.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

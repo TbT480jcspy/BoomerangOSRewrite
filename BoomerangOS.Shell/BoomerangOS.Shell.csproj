@@ -11,4 +11,16 @@
     <Folder Include="Scenes\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Silk.NET.Windowing" Version="2.23.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BoomerangOS.Common\BoomerangOS.Common.csproj" />
+    <ProjectReference Include="..\BoomerangOS.Graphics\BoomerangOS.Graphics.csproj" />
+    <ProjectReference Include="..\BoomerangOS.Input\BoomerangOS.Input.csproj" />
+
+	<PackageReference Include="Silk.NET.Windowing" Version="2.23.0" />
+  </ItemGroup>
+
 </Project>

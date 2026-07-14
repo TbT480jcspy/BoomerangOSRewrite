@@ -4,7 +4,16 @@ using System.Text;
 
 namespace BoomerangOS.Common.Logging
 {
-    internal class Logger
+    public static class Logger
     {
+        public static void Info(string message)
+        {
+            Console.WriteLine($"[{DateTime.Now.ToString()}] [INFO] {message}");
+        }
+
+        public static void Error(string message)
+        {
+            Console.WriteLine($"[{DateTime.Now.ToString()}] [ERROR] {message}");
+        }
     }
 }

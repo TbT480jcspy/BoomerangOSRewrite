@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.SDK\\BoomerangOS.SDK.csproj": {}
+    "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.SDK\\BoomerangOS.SDK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.SDK\\BoomerangOS.SDK.csproj": {
+    "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.SDK\\BoomerangOS.SDK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.SDK\\BoomerangOS.SDK.csproj",
+        "projectUniqueName": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.SDK\\BoomerangOS.SDK.csproj",
         "projectName": "BoomerangOS.SDK",
-        "projectPath": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.SDK\\BoomerangOS.SDK.csproj",
-        "packagesPath": "C:\\Users\\XByA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XByA\\Documents\\GitHub\\BoomerangOS.SDK\\obj\\",
+        "projectPath": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.SDK\\BoomerangOS.SDK.csproj",
+        "packagesPath": "C:\\Users\\mason\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mason\\Documents\\GitHub\\BoomerangOSRewrite\\BoomerangOS.SDK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\XByA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mason\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

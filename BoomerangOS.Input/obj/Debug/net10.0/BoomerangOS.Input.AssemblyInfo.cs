@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoomerangOS.Input")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e84f60b5266dc0665ee955c2331d04548104ba8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoomerangOS.Input")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoomerangOS.Input")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
